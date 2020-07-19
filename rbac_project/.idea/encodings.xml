@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/rbac/forms.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/rbac/middlewares" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/rbac/server" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/rbac/static" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/rbac/templates" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/rbac/templates/rbac/breadcrumb.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/rbac/templatetags" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/rbac/urls.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/forms" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/static" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/templates" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/web/views" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
